@@ -1,6 +1,6 @@
 # Cisco Packet Tracer: Networking Labs
 
-**Network design, IP addressing, Cisco IOS configuration & troubleshooting**
+**Network design, IP addressing & troubleshooting**
 
 ## Objective
 
