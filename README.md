@@ -302,5 +302,3 @@ The finished design: the router connects via Gig0/0/0 (`192.168.2.2`) and trunk 
 Together these labs cover the everyday building blocks of a small network: connecting hosts through a switch, routing between separate networks, automating addressing with DHCP, running an application service (email), and segmenting a switch with VLANs. Each lab follows the same disciplined pattern: design the topology, configure the devices, then verify, which is exactly the workflow used when standing up real infrastructure. The result is a practical, end-to-end demonstration of foundational networking and Cisco IOS configuration skills.
 
 ---
-
-> **How to attach the screenshots:** each image slot above uses a placeholder in its `src` (for example `SCREENSHOT_1_URL`). Upload each screenshot to this GitHub repository (drag-and-drop into the README editor, or add them to a `/screenshots` folder), then replace each `SCREENSHOT_X_URL` with the generated link. The numbering matches the original lab screenshot numbers, so `SCREENSHOT_39_URL` takes the image labelled "Screenshot 39", and so on.
