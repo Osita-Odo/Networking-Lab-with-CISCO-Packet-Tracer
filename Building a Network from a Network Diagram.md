@@ -69,19 +69,20 @@ From the diagram, all links are Ethernet, so the build uses copper straight-thro
 
 Working in Physical Mode, I mounted the routers, switches, and web server in the equipment rack and cabled each link according to the connection table. As an example, to connect R1 to the web server I[...]
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a693a488-3364-48a8-8b1c-a734f1b4b900" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-10 223332" src="https://github.com/user-attachments/assets/ac469e39-c1d4-4de1-bd03-c34d67b8f730" />
 
 
 *Figure 2 — Equipment rack cabled in Physical Mode, with the straight-through cable highlighted on the pegboard.*
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/608578a0-f7f9-4773-9348-41ff3e40a52e" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-10 223123" src="https://github.com/user-attachments/assets/3339d023-eda1-4c46-95e5-8f9ba66a53c4" />
 
 
 *Figure 3 — PC-A and PC-B cabled at the workbench, completing the end-device connections.*
 
 ## Verification & Result
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/21826983-771d-480f-a20c-7243559051c8" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-10 222931" src="https://github.com/user-attachments/assets/3b5ae5ad-00b6-485a-85c7-7a8f83e736e2" />
+
 
 Two checks confirmed the build was correct. First, every port LED across the routers, switches, server, and PCs showed a steady link state after cabling. Second, Packet Tracer's built-in completion ch[...]
 
