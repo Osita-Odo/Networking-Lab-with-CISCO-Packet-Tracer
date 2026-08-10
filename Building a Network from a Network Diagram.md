@@ -103,4 +103,4 @@ Two checks confirmed the build was correct. First, every port LED across the rou
 
 ## Reflection
 
-The most valuable part of this exercise was the discipline of documenting every connection before building anything. Mapping the logical diagram to a precise device table made the physical build fast [...]
+The most valuable part of this exercise was the discipline of documenting every connection before building anything. Mapping the logical diagram to a precise device table made the physical build fast and error-free, and it produced documentation that would be immediately useful to anyone maintaining the network later. The distinction between logical and physical views, one showing how data flows, the other showing how equipment is physically racked and cabled, is a foundation I will carry into more advanced networking and network-security work, where an accurate picture of the underlying infrastructure is essential to securing it.
