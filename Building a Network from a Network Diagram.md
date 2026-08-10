@@ -32,7 +32,8 @@ Network diagrams are the reference point technicians rely on when planning, trou
 
 The logical diagram defines the intended topology. R1 anchors one side of the network with a directly attached web server, while R2 sits behind S2 on the other side. The two switches are trunked toget[...]
 
-![Logical network diagram provided for the build](images/diagram.png)
+<img width="940" height="650" alt="image" src="https://github.com/user-attachments/assets/1f48a454-9dae-41ce-a208-02887ac5574d" />
+
 
 *Figure 1 — Logical network diagram provided for the build.*
 
@@ -68,15 +69,19 @@ From the diagram, all links are Ethernet, so the build uses copper straight-thro
 
 Working in Physical Mode, I mounted the routers, switches, and web server in the equipment rack and cabled each link according to the connection table. As an example, to connect R1 to the web server I[...]
 
-![Equipment rack cabled in Physical Mode](images/topo1.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a693a488-3364-48a8-8b1c-a734f1b4b900" />
+
 
 *Figure 2 — Equipment rack cabled in Physical Mode, with the straight-through cable highlighted on the pegboard.*
 
-![PC-A and PC-B cabled at the workbench](images/topo2.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/608578a0-f7f9-4773-9348-41ff3e40a52e" />
+
 
 *Figure 3 — PC-A and PC-B cabled at the workbench, completing the end-device connections.*
 
 ## Verification & Result
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/21826983-771d-480f-a20c-7243559051c8" />
 
 Two checks confirmed the build was correct. First, every port LED across the routers, switches, server, and PCs showed a steady link state after cabling. Second, Packet Tracer's built-in completion ch[...]
 
