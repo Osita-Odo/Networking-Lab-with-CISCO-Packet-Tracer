@@ -1,8 +1,7 @@
 # Building a Network from a Network Diagram
 
-**Cisco Packet Tracer · Physical Mode · CCNA-aligned**
+**Cisco Packet Tracer · Physical Mode 
 
-**Prepared by:** Osita Kingsley Odo
 **Focus areas:** Network fundamentals, structured cabling, network documentation
 
 ---
@@ -32,7 +31,7 @@ Network diagrams are the reference point technicians rely on when planning, trou
 
 The logical diagram defines the intended topology. R1 anchors one side of the network with a directly attached web server, while R2 sits behind S2 on the other side. The two switches are trunked toget[...]
 
-<img width="940" height="650" alt="image" src="https://github.com/user-attachments/assets/1f48a454-9dae-41ce-a208-02887ac5574d" />
+<img width="863" height="505" alt="image" src="https://github.com/user-attachments/assets/53791f42-6510-4219-bbf8-fe32e5808de4" />
 
 
 *Figure 1 — Logical network diagram provided for the build.*
