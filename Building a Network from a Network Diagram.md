@@ -85,10 +85,10 @@ Working in Physical Mode, I mounted the routers, switches, and web server in the
 
 Two checks confirmed the build was correct. First, every port LED across the routers, switches, server, and PCs showed a steady link state after cabling. Second, Packet Tracer's built-in completion ch[...]
 
-- ✓ All device interfaces connected as documented in the connection table.
-- ✓ Correct copper straight-through cabling used on every link.
-- ✓ Port LEDs confirmed active links across all devices.
-- ✓ Packet Tracer completion score: 100%.
+- All device interfaces connected as documented in the connection table.
+- Correct copper straight-through cabling used on every link.
+- Port LEDs confirmed active links across all devices.
+- Packet Tracer completion score: 100%.
 
 ## Skills Demonstrated
 
